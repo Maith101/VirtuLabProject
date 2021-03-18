@@ -8,7 +8,7 @@ import 'student/stu_course_register.dart';
 import 'instructor/inst_report.dart';
 import 'administrator/admin_main.dart';
 import 'tempnav.dart';
-
+//
 void main() async{
 
   WidgetsFlutterBinding.ensureInitialized(); 
